@@ -37,12 +37,12 @@
 </p>
 
 ## My Stats
-[![Anneke's github stats](https://github-readme-stats.vercel.app/api?username=aemiers&theme=react)](https://github.com/aemiers/github-readme-stats)
-[![Anneke's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemiers&langs_count=5&theme=react&layout=compact)](https://github.com/aemiers/github-readme-stats)
+[![Anneke's github stats](https://github-readme-stats.vercel.app/api?username=aemiers&theme=monokai)](https://github.com/aemiers/github-readme-stats)
+[![Anneke's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemiers&langs_count=5&theme=monokai&layout=compact)](https://github.com/aemiers/github-readme-stats)
 
 ## Trophies
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=aemiers&column=6&theme=darkhub&margin-w=20&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=aemiers&column=6&theme=monokai&margin-w=20&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
 ## Contact
