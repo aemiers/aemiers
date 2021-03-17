@@ -1,4 +1,4 @@
-### Welcome to Anneke's GitHub Page!
+# Welcome to Anneke's GitHub!
 
 ## About
 * UX Designer and Front-End Software Engineering Student at Turing School of Software and Design.
@@ -37,11 +37,13 @@
 </p>
 
 ## My Stats
-[![Anneke's github stats](https://github-readme-stats.vercel.app/api?username=aemiers&theme=vue)](https://github.com/aemiers/github-readme-stats)
-[![Anneke's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemiers&langs_count=5&theme=vue&layout=compact)](https://github.com/aemiers/github-readme-stats)
+[![Anneke's github stats](https://github-readme-stats.vercel.app/api?username=aemiers&theme=react)](https://github.com/aemiers/github-readme-stats)
+[![Anneke's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemiers&langs_count=5&theme=react&layout=compact)](https://github.com/aemiers/github-readme-stats)
 
 ## Trophies
-[![Anneke's Tophies](https://github-profile-trophy.vercel.app/?username=aemiers&title=Commit,Issues,PullRequest,Repository,Joined2020)](https://github.com/aemiers/github-profile-trophy)
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=aemiers&column=6&theme=darkhub&margin-w=20&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
 
 ## Contact
 [linkedin]: https://www.linkedin.com/in/anneke-miers/
