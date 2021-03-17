@@ -36,7 +36,7 @@
 <!-- <img src="https://img.shields.io/badge/-Testing%20Library-%23E33332?&style=for-the-badge&logo=testing-library&logoColor=white"/> -->
 </p>
 
-## My Stats
+## Stats
 [![Anneke's github stats](https://github-readme-stats.vercel.app/api?username=aemiers&theme=monokai)](https://github.com/aemiers/github-readme-stats)
 [![Anneke's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemiers&langs_count=5&theme=monokai&layout=compact)](https://github.com/aemiers/github-readme-stats)
 
