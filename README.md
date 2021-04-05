@@ -1,7 +1,7 @@
 # Welcome to Anneke's GitHub!
 
 ## About
-* UX Designer and Front-End Software Engineering Student at Turing School of Software and Design.
+* UX Designer and Front-End Software Engineer at Turing School of Software and Design.
 * Plays violin, viola, and cello.
 * Currently residing in Denver, Colorado.
 
